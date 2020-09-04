@@ -102,8 +102,9 @@ def predict_churn(gender,state,city,county,amount,plan,event_type,daystoresolve,
 
 def main():
     st.title("Telecom Churn Predictor")
+    st.subheader("Created by: Aravind R")
     #checking the data
-    st.write("Will the customer stay")
+    st.write("Will the customer stay?")
     check_data = st.checkbox("Data sample")
     if check_data:
         st.write(data.head())
