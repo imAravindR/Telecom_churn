@@ -14,4 +14,5 @@ streamlit
 plotly==4.8.1
 seaborn==0.10.1
 tqdm==4.46.1
-PrettyTable ==0.7.2
+PrettyTable==0.7.2
+xgboost==1.2.0
