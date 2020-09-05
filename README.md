@@ -30,5 +30,5 @@ To run the app in local:
               (base) C:\Users\aravind\Desktop\Telecom_churn>conda activate churn_env
               (bank_env) C:\Users\aravind\Desktop\Telecom_churn>streamlit run app.py
 # App Demo
-![](/streamlit-app-2020-09-04-19-09-75.webm.gif)
+![](https://github.com/imAravindR/Telecom_churn/blob/master/streamlit-app-2020-09-04-19-09-75.webm.gif)
      
