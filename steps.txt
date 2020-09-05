@@ -1,6 +1,0 @@
-steps
-
---> Open Anacond Promt
-	> cd C:\Users\imarv\Desktop\prodapt\CaseStudy
-	> conda activate bank_env
-	> streamlit run app.py
